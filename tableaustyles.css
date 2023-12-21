@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://3.bp.blogspot.com/-h1u1abCaFpA/T-oh_9ZTWxI/AAAAAAAACCo/Obu7QGepsuA/s1600/seamless_pink_background.jpg);
+}
+
+.reasons {
+    font-family:cursive;
+    font-size: medium;
+}
+
+.monthslist {
+    font-family: monospace;
+    font-style:unset;
+    font-size: large;
+    color: cadetblue;
+}
+
+.header {
+    font-family:serif;
+    font-size: larger;
+    color: darkslateblue;
+}
+
+.youtube {
+    color:darkcyan
+}
+

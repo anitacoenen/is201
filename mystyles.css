@@ -1,0 +1,12 @@
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.diff-bg {
+    background-color:rgb(193, 38, 121) !important;
+}
+
+.text-primary {
+    color:rgb(203, 144, 153) !important;
+}
+
